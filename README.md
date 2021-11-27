@@ -8,7 +8,13 @@
 
 Materials provided:
 
-- To be added: exercise files and full solutions
+- __Getting Started__ class on 29NOV2021:
+  - [Examples and Exercises](https://colab.research.google.com/drive/1b1x09xxXBTSNnclrrG1EjsQh2FZ5CZID#offline=true&sandboxMode=true) as a Google Colab Notebook
+  - [Solutions to all Exercises](https://colab.research.google.com/drive/1OfdSTm5T_xEUQU2cAHWi7ORH4YWf7s3p#offline=true&sandboxMode=true) as a Google Colab Notebook
+  - [Solutions to all Exercises](solutions/Everything_is_Better_with_Friends-Getting_Started-Solutions.pdf) as a PDF file
+  - [Slides](slides/Everything_is_Better_with_Friends-Getting_Started-Slides.pdf) as a PDF file
+
+- To be added: exercise files and full solutions for __Beyond the Basics__ class on 06DEC2021
 
 
 ## Setup Instructions & Prerequisites
@@ -28,7 +34,7 @@ In order to interact with code examples, accounts for the following two online s
 
 To test your setup, please follow the instructions in our [Setup Test Colab Notebook](https://colab.research.google.com/drive/16lrkpnth_BTx0VPRgUoXBZbnyShdL-3J#offline=true&sandboxMode=true). If desired, you can use the __File__ -> __Save a Copy in Drive__ command to save a copy of the results.
 
-All in-class examples assume the use of Google Colab and ODA, and we will not be able to provide support for any other setup. However, if you are interested in setting up a local SASPy enviroment in order to have Python talk to a commercial SAS installation, you're welcome to follow [these setup instructions](https://github.com/saspy-bffs/sgf-2019-how/blob/main/Handout-SGF2019-HOW-Everything_Is_Better_With_Friends.pdf) (see page 2) from a previous iteration of this course.
+All in-class examples assume the use of Google Colab and ODA, and we will not be able to provide support for any other setup. However, if you are interested in setting up a local SASPy environment in order to have Python talk to a commercial SAS installation, you're welcome to follow [these setup instructions](https://github.com/saspy-bffs/sgf-2019-how/blob/main/Handout-SGF2019-HOW-Everything_Is_Better_With_Friends.pdf) (see page 2) from a previous iteration of this course.
 
 
 ### Attendee Prerequisites
