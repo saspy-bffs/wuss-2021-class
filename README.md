@@ -8,13 +8,38 @@
 
 Materials provided:
 
+
 - __Getting Started__ class on 29NOV2021:
-  - [Examples and Exercises](https://colab.research.google.com/drive/1b1x09xxXBTSNnclrrG1EjsQh2FZ5CZID#offline=true&sandboxMode=true) as a Google Colab Notebook
-  - [Solutions to all Exercises](https://colab.research.google.com/drive/1OfdSTm5T_xEUQU2cAHWi7ORH4YWf7s3p#offline=true&sandboxMode=true) as a Google Colab Notebook
+
+  - [Examples and Exercises](https://colab.research.google.com/drive/1b1x09xxXBTSNnclrrG1EjsQh2FZ5CZID#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+
+  - [Solutions to all Exercises](https://colab.research.google.com/drive/1OfdSTm5T_xEUQU2cAHWi7ORH4YWf7s3p#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+
   - [Solutions to all Exercises](solutions/Everything_is_Better_with_Friends-Getting_Started-Solutions.pdf) as a PDF file
+
   - [Slides](slides/Everything_is_Better_with_Friends-Getting_Started-Slides.pdf) as a PDF file
 
-- To be added: exercise files and full solutions for __Beyond the Basics__ class on 06DEC2021
+
+- __Beyond the Basics__ class on 06DEC2021:
+  - Examples and Exercises as interactive Google Colab Notebooks:
+    - [Part 1](https://colab.research.google.com/drive/1OYhxie2u09blTa18fGyaRVNIrwpXTO8a#offline=true&sandboxMode=true)
+    - [Part 2](https://colab.research.google.com/drive/1mXEQAZCNAQxe0ZmfXAnALoBE-RSdLu_z#offline=true&sandboxMode=true)
+    - [Part 3](https://colab.research.google.com/drive/1QzBjGKByah-WAq76rPyj0YxSI8g7xNmn#offline=true&sandboxMode=true)
+    - [Part 4](https://colab.research.google.com/drive/1lz7hpLgBdW5UIQ9CQtgOgRdVzcD1S3Hf#offline=true&sandboxMode=true)
+    
+  - Solutions to all Exercises as interactive Google Colab Notebooks:
+    - [Part 1](https://colab.research.google.com/drive/1Hk6kT1c1ugAgg6eIbWo2t3MPdGoIyRwd#offline=true&sandboxMode=true)
+    - [Part 2](https://colab.research.google.com/drive/17LWsMALFpDGJMRR9CquMbjPbMBHiHqP8#offline=true&sandboxMode=true)
+    - [Part 3](https://colab.research.google.com/drive/18mTHFpr-UstBoHT8XJ_QcIaI14YXZG-2#offline=true&sandboxMode=true)
+    - [Part 4](https://colab.research.google.com/drive/1EHozJXwcVPJvDbgnCoRgIz3qS5C4qE9v#offline=true&sandboxMode=true)
+    
+  - Solutions to all Exercises as PDF files:
+    - [Part 1](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part1-Solutions.pdf)
+    - [Part 2](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part2-Solutions.pdf)
+    - [Part 3](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part3-Solutions.pdf)
+    - [Part 4](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part4-Solutions.pdf)
+    
+  - [Slides](slides/Everything_is_Better_with_Friends-Beyond_the_Basics-Slides.pdf) as a PDF file
 
 
 ## Setup Instructions & Prerequisites
